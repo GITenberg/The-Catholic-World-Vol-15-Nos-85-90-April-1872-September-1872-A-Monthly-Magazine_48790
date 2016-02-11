@@ -1,0 +1,22 @@
+_repo: The-Catholic-World-Vol-15-Nos-85-90-April-1872-September-1872-A-Monthly-Magazine_48790
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2015-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Catholic Church -- Periodicals'
+title: "The Catholic World, Vol. 15, Nos. 85-90, April 1872-September 1872\r\nA Monthly\
+  \ Magazine"
+url: http://www.gutenberg.org/ebooks/48790
